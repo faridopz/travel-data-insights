@@ -1,0 +1,201 @@
+user_id,name,email,country,signup_date,loyalty_status,age,preferred_travel_type
+1,Richard Marshall,richardfitzpatrick@santos.org,Vietnam,2023-07-11,Platinum,56,Adventure
+2,Eric Fisher,lori87@gmail.com,Saint Helena,2023-05-31,Platinum,63,Business
+3,Deborah Hughes,fdavis@gmail.com,Macao,2024-02-09,Silver,59,Romantic
+4,Matthew Dixon,russellmelinda@miller-brown.info,Australia,2022-07-20,Bronze,51,Business
+5,Joseph Collier,josepharmstrong@hotmail.com,Portugal,2024-08-04,Silver,41,Relaxation
+6,Carol Shaw,jonathan72@powell.com,Hungary,2024-02-20,Platinum,19,Romantic
+7,Hunter Wallace,campbellannette@gmail.com,Turkmenistan,2024-09-22,Bronze,59,Relaxation
+8,Victoria Stevens,pstewart@quinn.com,Japan,2022-06-01,Bronze,33,Romantic
+9,Cesar Payne,garciakristine@montgomery.com,British Virgin Islands,2024-06-14,Platinum,54,Business
+10,Brittney Jones,david37@bolton-hayes.com,Macao,2023-05-01,Silver,55,Cultural
+11,Garrett Hodges,tiffanybruce@stone.com,Tunisia,2024-03-30,Silver,28,Adventure
+12,Eric Ward,wsanders@rogers.com,Wallis and Futuna,2023-10-12,Bronze,53,Business
+13,Kendra Johnson,cruzvictoria@salazar-stanton.net,Kenya,2022-07-04,Bronze,64,Cultural
+14,David Martinez,ssweeney@hotmail.com,Saint Pierre and Miquelon,2024-03-29,Gold,24,Relaxation
+15,Jennifer Ortiz,david68@yahoo.com,Timor-Leste,2024-05-01,Bronze,38,Relaxation
+16,Kayla Todd,jamesnicholas@evans-hall.info,Kenya,2025-02-25,Platinum,42,Relaxation
+17,Adam Branch,holly42@thomas-hernandez.com,American Samoa,2024-06-20,Platinum,69,Cultural
+18,Aaron Cochran,erika68@hotmail.com,Gabon,2022-12-17,Platinum,61,Cultural
+19,Christopher Murray,omorgan@yahoo.com,Macedonia,2022-10-02,Platinum,66,Romantic
+20,Jennifer Jones,stuartmichael@hotmail.com,French Guiana,2022-09-11,Bronze,59,Romantic
+21,Samantha Adkins,martinezcharles@rubio.com,Malta,2023-07-17,Silver,44,Cultural
+22,Victoria Carter,mialuna@yahoo.com,Sao Tome and Principe,2023-06-01,Bronze,70,Business
+23,Sara Levy,tgonzalez@davis-curtis.com,Nauru,2023-01-29,Silver,25,Romantic
+24,Sonya Stewart,hshaw@lopez.info,Cuba,2023-09-15,Gold,33,Cultural
+25,Joseph Snyder,stevensdevin@alvarado.com,Macao,2022-07-28,Gold,42,Relaxation
+26,Kevin Kerr,patriciajames@king.info,Malaysia,2023-08-24,Silver,66,Adventure
+27,Kathleen Brown,robin58@hotmail.com,Tunisia,2024-08-13,Platinum,55,Relaxation
+28,Dale Rich,robert71@yahoo.com,Azerbaijan,2024-02-21,Silver,51,Adventure
+29,Mr. Luis Carter MD,victoria58@ball.com,Dominican Republic,2024-04-17,Gold,22,Romantic
+30,Heather Smith,anthonyclark@chambers.org,Saint Helena,2024-06-03,Bronze,68,Cultural
+31,Tyler Curtis,rebecca56@glover.info,Guernsey,2022-06-01,Silver,69,Cultural
+32,Neil Anderson,contrerasrobert@hoffman.com,France,2024-05-13,Platinum,44,Romantic
+33,Amanda Novak,wesley20@lucas.com,South Georgia and the South Sandwich Islands,2024-11-15,Bronze,44,Cultural
+34,Dominic Sanchez,brandon24@yahoo.com,Korea,2024-06-22,Platinum,66,Romantic
+35,Joseph Brown,kristinaperkins@hotmail.com,Guyana,2022-12-09,Platinum,33,Relaxation
+36,David Warren,jay82@kemp-burke.com,American Samoa,2023-01-12,Silver,38,Business
+37,Jennifer Reed,lorisullivan@jacobson.com,Saudi Arabia,2022-11-06,Gold,45,Relaxation
+38,Christopher Watson,victor04@montgomery.biz,Andorra,2024-07-22,Silver,60,Business
+39,Ashley Lynn,alexanderdennis@gmail.com,Falkland Islands (Malvinas),2024-01-28,Gold,52,Business
+40,Vanessa Johnson,chendonna@hernandez.com,Turkmenistan,2023-03-03,Platinum,39,Business
+41,Daniel Robinson,tdavis@yahoo.com,Andorra,2025-01-31,Silver,30,Romantic
+42,Jessica Brown,rodriguezsteven@lewis.net,Hungary,2025-03-07,Platinum,38,Romantic
+43,Raymond Perez,briangriffith@hernandez.biz,San Marino,2024-05-01,Bronze,37,Romantic
+44,Christina Berry,mnelson@johnson.com,Algeria,2023-07-09,Gold,40,Cultural
+45,Donald Walker,ryandavis@yahoo.com,Bosnia and Herzegovina,2022-05-14,Bronze,22,Romantic
+46,William Smith,agarcia@harding-wright.biz,Pakistan,2025-03-01,Gold,47,Cultural
+47,Christina Salinas,waltermurphy@yahoo.com,Kyrgyz Republic,2024-11-07,Platinum,35,Romantic
+48,Scott Page,lisanolan@moore.com,Saint Martin,2023-04-09,Bronze,65,Romantic
+49,Alexander Taylor,rachaelpeterson@davies.info,United Arab Emirates,2023-02-20,Silver,37,Romantic
+50,Larry Holmes DDS,pricevincent@graham-martin.com,Cape Verde,2023-07-27,Silver,42,Relaxation
+51,Miguel Davis,richardjay@yahoo.com,Christmas Island,2023-02-23,Bronze,25,Relaxation
+52,James Velazquez,smithmegan@yahoo.com,Malawi,2023-09-15,Platinum,67,Adventure
+53,Nicole Obrien,wbridges@gmail.com,Vietnam,2022-11-30,Silver,35,Relaxation
+54,George Rose,michael39@smith.com,Bahrain,2024-03-24,Bronze,58,Relaxation
+55,Brenda Payne,sheenasilva@davis.com,Mali,2024-08-15,Bronze,59,Adventure
+56,Amanda Mathis,jason11@diaz.com,Mozambique,2025-03-09,Gold,47,Business
+57,Sean Meyers,anitarodriguez@hotmail.com,Japan,2025-02-04,Bronze,30,Adventure
+58,Kevin Young,youngnicholas@hotmail.com,Rwanda,2024-01-29,Bronze,69,Adventure
+59,William Miller,sarah29@lopez-holmes.info,Philippines,2024-04-15,Bronze,24,Relaxation
+60,Lauren Harrison,kpatel@hotmail.com,Angola,2022-12-18,Platinum,61,Relaxation
+61,Philip Morgan,gregory82@schmidt-valencia.org,Reunion,2024-02-17,Silver,43,Cultural
+62,Cindy Adkins,mhenson@johnson.com,Russian Federation,2024-06-07,Platinum,32,Adventure
+63,Christopher Watkins,jillsanders@hotmail.com,Uzbekistan,2022-07-30,Silver,27,Cultural
+64,Brian Savage,knightrandy@hotmail.com,Bahrain,2022-06-29,Bronze,39,Relaxation
+65,Sharon Ward,laurawu@yahoo.com,Sri Lanka,2023-09-04,Silver,69,Business
+66,Thomas Myers,owolfe@hotmail.com,Lesotho,2022-08-30,Platinum,35,Romantic
+67,Robert Scott,riveracourtney@gmail.com,Cambodia,2025-02-05,Platinum,52,Relaxation
+68,Erin Brooks,qramos@yahoo.com,Namibia,2023-04-03,Gold,35,Relaxation
+69,Angel Walker,stacey09@yahoo.com,Guinea-Bissau,2024-08-17,Bronze,26,Business
+70,Paul Sandoval,xharris@hotmail.com,Poland,2024-06-07,Bronze,69,Cultural
+71,Mr. John Blankenship,lpalmer@gmail.com,Poland,2022-07-13,Platinum,54,Adventure
+72,Traci Hart,sherry24@davis.info,Madagascar,2023-10-10,Platinum,51,Cultural
+73,Heidi Caldwell,colemanryan@yahoo.com,Djibouti,2023-10-07,Silver,33,Adventure
+74,Samuel Hatfield,jhuynh@davis.biz,Jamaica,2022-11-06,Bronze,59,Adventure
+75,Julia Robinson,mcfarlandbenjamin@hotmail.com,Syrian Arab Republic,2022-11-24,Platinum,36,Adventure
+76,Jamie Woodward,kelly94@smith.info,Nepal,2025-01-05,Silver,59,Relaxation
+77,Ellen Riley,nicholas34@levine.com,Dominican Republic,2023-06-03,Platinum,29,Adventure
+78,Matthew Rodriguez,charlesmcneil@bennett.com,Austria,2022-07-01,Bronze,20,Adventure
+79,Jimmy Herrera,qfigueroa@hotmail.com,Netherlands,2022-11-08,Platinum,70,Romantic
+80,Denise Le,anitarodriguez@hotmail.com,Vanuatu,2022-11-22,Bronze,50,Adventure
+81,Wayne Davis,rodriguezstacy@gmail.com,Korea,2022-08-25,Silver,24,Cultural
+82,Connie Freeman,aaronfernandez@hotmail.com,Chad,2022-10-31,Silver,41,Business
+83,Anthony White,ehawkins@yahoo.com,Mozambique,2023-08-30,Platinum,44,Business
+84,Dr. Curtis Miller Jr.,iluna@yahoo.com,Senegal,2022-10-13,Silver,61,Romantic
+85,Catherine Bailey,johnsmith@juarez.com,Svalbard & Jan Mayen Islands,2024-03-17,Silver,58,Romantic
+86,Robert Rice,kmckinney@hotmail.com,New Zealand,2022-10-11,Platinum,34,Adventure
+87,Patricia Rowland,andrea88@gonzalez.com,Luxembourg,2022-12-16,Bronze,66,Relaxation
+88,Mark Lambert,sherri11@malone.info,Jordan,2022-06-27,Platinum,20,Cultural
+89,Mary Smith,hernandezcarolyn@miller-chavez.com,Rwanda,2023-03-28,Bronze,27,Relaxation
+90,Erica Willis,samantha17@yahoo.com,Libyan Arab Jamahiriya,2023-10-07,Platinum,59,Business
+91,Holly Mcknight,vargasanthony@gmail.com,New Caledonia,2022-12-16,Bronze,19,Relaxation
+92,Sarah Thompson,stantonjoshua@hotmail.com,Andorra,2022-11-09,Silver,49,Business
+93,Travis Gray,alicia06@hotmail.com,Uganda,2025-01-30,Bronze,62,Cultural
+94,Michelle Hill,bethanyrivera@hotmail.com,British Virgin Islands,2024-01-20,Bronze,68,Business
+95,Tiffany Allen,greenstephen@gmail.com,South Georgia and the South Sandwich Islands,2023-10-14,Silver,62,Cultural
+96,Christopher Hardin,morgangraham@hotmail.com,Vanuatu,2023-08-12,Platinum,57,Romantic
+97,Antonio Richards,turnertravis@lee.com,Aruba,2022-10-28,Silver,53,Romantic
+98,Leslie Santiago,bellis@yahoo.com,Korea,2024-04-10,Bronze,29,Relaxation
+99,Austin Farrell,shepardgeorge@yahoo.com,Ireland,2023-04-13,Silver,66,Romantic
+100,Lisa Hunt,laurieharris@hotmail.com,Portugal,2025-03-29,Gold,18,Business
+101,Veronica Aguilar,harperleslie@hotmail.com,Tokelau,2022-10-17,Silver,60,Business
+102,Joseph Strong,ahanson@gutierrez-johnston.com,Luxembourg,2023-04-03,Platinum,69,Business
+103,Nicole Harrington,ashley55@yahoo.com,Costa Rica,2023-09-28,Silver,36,Romantic
+104,Heather Taylor,dmartinez@nguyen.info,Kuwait,2024-11-16,Silver,70,Adventure
+105,Christopher Braun,ashley18@stokes-gomez.com,Heard Island and McDonald Islands,2023-05-19,Silver,33,Cultural
+106,Joseph Petersen,dustinhebert@harris.com,Slovenia,2024-05-17,Bronze,18,Business
+107,Joseph Peterson,mariahill@webb.com,Malta,2024-07-28,Gold,52,Business
+108,Mike Berry,kelsey15@hotmail.com,Norway,2024-09-29,Silver,56,Romantic
+109,Meghan Mosley,bennettjohn@yahoo.com,Mauritius,2023-01-22,Platinum,67,Romantic
+110,Natalie Clayton,ruizmark@gmail.com,Aruba,2025-04-08,Gold,52,Adventure
+111,Heidi Floyd,maria76@berry-davis.info,Grenada,2023-04-12,Silver,23,Cultural
+112,Amanda Green,efox@simpson.net,Tunisia,2024-03-13,Bronze,37,Business
+113,Nicole Richardson,david97@hotmail.com,Grenada,2025-02-24,Silver,41,Cultural
+114,Benjamin Smith,davidgonzalez@yahoo.com,Iraq,2024-05-13,Bronze,67,Business
+115,Rachael Stewart,mayjordan@gmail.com,Belarus,2023-06-10,Platinum,59,Romantic
+116,Amy Barber,qmendoza@juarez-jackson.com,Brazil,2022-12-27,Gold,32,Relaxation
+117,Cynthia Stout,wilsonrachel@gmail.com,Maldives,2025-05-05,Bronze,53,Romantic
+118,Connie Pratt,allison44@rivera-smith.info,Sweden,2023-12-04,Silver,43,Romantic
+119,Kara Torres,jenkinssandra@west.com,Kuwait,2024-06-18,Silver,48,Romantic
+120,Jacqueline Smith,davidsmith@gmail.com,Madagascar,2024-12-17,Silver,65,Relaxation
+121,Heidi Dixon,stewartangela@fowler.com,Timor-Leste,2022-12-07,Gold,28,Relaxation
+122,Andrew Thompson,bryantanna@beasley.biz,Montenegro,2022-11-12,Gold,54,Romantic
+123,Dylan Kim,ericwilliams@wilson.net,Falkland Islands (Malvinas),2024-07-29,Silver,27,Relaxation
+124,Kristin Wood,yvaldez@craig.com,Vanuatu,2023-08-19,Bronze,56,Adventure
+125,Charles Robinson,manuelking@stephens-baker.net,Madagascar,2022-12-16,Gold,33,Cultural
+126,Robert Maldonado,eduardo51@yahoo.com,Svalbard & Jan Mayen Islands,2024-11-22,Gold,51,Relaxation
+127,Raymond Armstrong,omoore@hotmail.com,Pitcairn Islands,2023-12-16,Silver,60,Adventure
+128,Michelle Fuller,brandyprice@cooper-bradford.com,Cambodia,2023-07-11,Silver,51,Adventure
+129,Rick Martinez,qmorrison@gmail.com,Guernsey,2025-04-01,Platinum,20,Relaxation
+130,Robert Johnson,ericamurray@gmail.com,Guinea,2023-11-28,Silver,56,Adventure
+131,Sara Meyer,grimesmarie@hotmail.com,Guinea,2024-05-26,Silver,70,Romantic
+132,Tiffany Mueller,powersvicki@gmail.com,Gibraltar,2023-01-15,Gold,52,Romantic
+133,John Moore,kimberly71@vargas-thompson.biz,Kyrgyz Republic,2024-06-30,Silver,63,Romantic
+134,Donald Johnson,uwright@scott.biz,Angola,2024-02-09,Gold,54,Cultural
+135,Danielle Zimmerman,wboyd@barnes-martin.com,Guernsey,2024-01-14,Bronze,51,Relaxation
+136,Donald Benton,sblair@hotmail.com,Algeria,2023-02-07,Gold,54,Adventure
+137,Dawn Golden,denise77@ingram.info,Nauru,2023-03-02,Gold,19,Adventure
+138,Heather Welch,hensleyjacqueline@yahoo.com,Ukraine,2022-12-25,Silver,57,Adventure
+139,Dr. Richard Nelson,robin13@bowman.com,Zimbabwe,2022-07-09,Gold,19,Business
+140,Dana Avila,kathrynsmith@ward.com,New Zealand,2023-12-09,Gold,29,Business
+141,Stacey Jenkins,xelliott@harris-carter.info,Nepal,2023-08-12,Bronze,34,Relaxation
+142,Tara Hopkins,sonya46@gmail.com,Senegal,2024-06-08,Silver,24,Relaxation
+143,Meghan Cooper,tinahall@hotmail.com,Turks and Caicos Islands,2024-07-22,Gold,19,Romantic
+144,Michelle Figueroa,oconner@yahoo.com,Sierra Leone,2024-03-12,Platinum,37,Relaxation
+145,Richard Taylor,traviscook@hotmail.com,Samoa,2023-07-07,Silver,26,Cultural
+146,Ann Smith,michael69@torres.biz,Germany,2022-05-27,Silver,21,Business
+147,Erica Navarro,jwood@hotmail.com,Macao,2025-01-13,Silver,39,Romantic
+148,Robert Perez,norma99@hotmail.com,Turkmenistan,2022-11-10,Platinum,22,Adventure
+149,Lawrence Sweeney,monica87@hotmail.com,Finland,2024-07-12,Bronze,55,Cultural
+150,Jared Morgan,francoalyssa@martinez.com,United States of America,2022-07-04,Bronze,38,Adventure
+151,Travis Adams,ballen@gmail.com,Armenia,2022-07-15,Platinum,25,Relaxation
+152,Kyle Warren,bstephens@nichols.com,Ghana,2022-08-06,Gold,23,Cultural
+153,Adam Calderon,heather43@lucas.com,Oman,2023-06-24,Platinum,64,Cultural
+154,Emily Glover,pauljones@brown-mayer.com,Turks and Caicos Islands,2024-08-08,Bronze,19,Cultural
+155,Jessica Brown,maria23@brown.org,Turkey,2024-07-02,Bronze,45,Business
+156,Matthew Morgan,waynewarner@norton.com,Angola,2023-02-27,Platinum,40,Adventure
+157,Sherry Estrada,fshort@hotmail.com,Nauru,2024-01-27,Bronze,28,Business
+158,Steven Watson,mcooper@coleman.com,Ecuador,2024-11-15,Gold,61,Adventure
+159,Evelyn Carroll DDS,steven50@hotmail.com,Dominica,2023-03-14,Platinum,35,Adventure
+160,Gary Hill,qwatson@gmail.com,Turkey,2023-10-15,Gold,47,Relaxation
+161,Gail Brown,patricia14@dawson.com,Azerbaijan,2025-02-24,Silver,25,Adventure
+162,Kimberly Warner,michael18@lester.net,United States Minor Outlying Islands,2022-08-18,Platinum,34,Business
+163,Christopher Wilson,dylan66@howard.com,Equatorial Guinea,2024-02-27,Bronze,25,Romantic
+164,Susan Simon,scottholmes@yahoo.com,Guam,2024-02-28,Bronze,30,Relaxation
+165,Anna Brown,david65@yahoo.com,United States Virgin Islands,2022-12-31,Platinum,23,Romantic
+166,Michael Estrada,reidterri@hotmail.com,Namibia,2024-06-12,Platinum,41,Relaxation
+167,Katherine Pena,omiller@torres.com,Botswana,2024-08-15,Silver,53,Business
+168,Jeffrey Norris,felliott@gmail.com,Ireland,2022-09-11,Platinum,66,Relaxation
+169,Mr. Adam Graham,ballamy@gmail.com,United States Virgin Islands,2023-03-13,Bronze,63,Cultural
+170,Heather Hayes,xbarker@shepherd.com,Belize,2023-01-26,Gold,22,Romantic
+171,Eric Harris,timothyhayes@hotmail.com,Puerto Rico,2022-10-08,Silver,36,Adventure
+172,Tommy Allen,victoriaellison@elliott.org,Swaziland,2023-06-17,Bronze,60,Romantic
+173,Donald Burns,scott13@williams.com,Madagascar,2023-12-12,Bronze,44,Adventure
+174,Michelle Fischer,angela72@hotmail.com,Bosnia and Herzegovina,2024-11-29,Platinum,58,Romantic
+175,Vincent Cummings,zacharyanderson@carroll-hernandez.com,Iran,2023-10-22,Silver,68,Cultural
+176,Julie Davis,bmurray@mclean.net,Guinea-Bissau,2022-12-05,Platinum,31,Cultural
+177,Dawn Dixon,courtneypatterson@barton.com,Nepal,2025-03-10,Gold,27,Business
+178,Kellie Mcmahon,jacqueline51@gmail.com,Suriname,2024-02-05,Silver,47,Relaxation
+179,Kim Herrera,michael50@gmail.com,Ghana,2022-10-02,Platinum,36,Relaxation
+180,Sarah Collins,joyce36@edwards.com,Montserrat,2023-09-04,Silver,55,Cultural
+181,David Hodges,corey68@gmail.com,China,2023-05-31,Bronze,40,Cultural
+182,Christopher Smith,orios@bailey.com,Jamaica,2024-05-18,Platinum,45,Business
+183,Cody Singleton,lisawilliams@copeland.org,Saint Helena,2024-11-18,Platinum,49,Relaxation
+184,April Romero,xfaulkner@gmail.com,Barbados,2025-03-01,Platinum,70,Adventure
+185,Michael Keith,ucarrillo@gmail.com,Myanmar,2022-12-31,Silver,51,Business
+186,Lisa Schmidt,craigtaylor@yahoo.com,Myanmar,2024-12-06,Silver,57,Relaxation
+187,Aaron Cox,croberts@jones.com,Gabon,2025-04-06,Silver,69,Adventure
+188,Anna Lee,tarmstrong@gmail.com,Slovakia (Slovak Republic),2024-03-23,Platinum,25,Business
+189,Tanya Green,dustin00@yahoo.com,Uganda,2024-07-17,Platinum,26,Adventure
+190,Katherine Davis,dustin72@hotmail.com,New Caledonia,2023-11-23,Platinum,61,Relaxation
+191,Cody Bowman,deleonmichelle@yahoo.com,Kyrgyz Republic,2023-04-14,Silver,51,Relaxation
+192,Eric Smith,garzaerin@yahoo.com,American Samoa,2024-01-22,Silver,70,Relaxation
+193,Zachary Allen,mhaas@vargas-grant.com,Finland,2024-10-08,Bronze,37,Adventure
+194,Danielle Mitchell,baileycarter@williams.com,Nauru,2023-03-02,Bronze,19,Romantic
+195,Steven Cole,jessica77@hotmail.com,Germany,2023-05-18,Silver,33,Adventure
+196,Christian Walker,mcdonaldcory@yahoo.com,Guatemala,2025-01-26,Bronze,18,Romantic
+197,Alicia Anderson,zmorris@long.com,France,2024-07-27,Gold,40,Business
+198,Maria Fisher,pricejared@baker-giles.org,Christmas Island,2025-01-30,Bronze,45,Relaxation
+199,Erin Miller,thomasangela@yahoo.com,Albania,2022-11-05,Bronze,46,Adventure
+200,Justin Thomas,jameswagner@yahoo.com,Sri Lanka,2023-05-05,Silver,59,Adventure

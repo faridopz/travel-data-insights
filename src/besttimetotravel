@@ -1,0 +1,49 @@
+import pandas as pd
+import matplotlib.pyplot as plt
+import seaborn as sns
+
+# Load booking summary
+summary = pd.read_csv("/Users/faridabdurrahman/Desktop/DATAPROJECTFARID/output/best_booking_times.csv")
+
+# Step 1: Identify top 5 destinations by total bookings
+top_destinations = (
+    summary.groupby('destination_country')['booking_count']
+    .sum()
+    .nlargest(5)
+    .index.tolist()
+)
+
+# Step 2: Filter to top destinations
+filtered = summary[summary['destination_country'].isin(top_destinations)]
+
+# Step 3: Pivot table for heatmap
+pivot = filtered.pivot_table(
+    index='destination_country',
+    columns='booking_month_num',
+    values='avg_price'
+)
+
+# Map month numbers to names
+month_map = {
+    1: 'Jan', 2: 'Feb', 3: 'Mar', 4: 'Apr',
+    5: 'May', 6: 'Jun', 7: 'Jul', 8: 'Aug',
+    9: 'Sep', 10: 'Oct', 11: 'Nov', 12: 'Dec'
+}
+pivot.columns = [month_map[m] for m in pivot.columns]
+
+# Step 4: Plot heatmap with red-yellow-green colormap
+plt.figure(figsize=(12, 6))
+sns.heatmap(
+    pivot,
+    cmap="RdYlGn_r",   # _r reverses so green is low, red is high
+    linewidths=0.5,
+    annot=True,
+    fmt=".0f"
+)
+
+plt.title("🗺️ Best Time to Book – Top 5 Destinations (Green = Cheaper)", fontsize=14)
+plt.xlabel("Booking Month")
+plt.ylabel("Destination Country")
+plt.tight_layout()
+plt.savefig("/Users/faridabdurrahman/Desktop/DATAPROJECTFARID/output/top5_best_booking_heatmap_colored.png")
+plt.show()
