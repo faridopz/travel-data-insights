@@ -1,83 +1,91 @@
+ ✈️ Travel Data Insights Dashboard
 
-# ✈️ Travel Data Insights Dashboard
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Status](https://img.shields.io/badge/Project-Dashboard-green)
+![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
-> *A data-driven journey through travel behavior, booking trends, and customer value — created in collaboration with ChatGPT.*
+> *A full-stack travel analytics project exploring booking trends, user demographics, loyalty programs, and forecasting — built using Python.
 
-## 📖 About the Project
+---
 
-On a rainy afternoon in July 2025, I challenged myself to build a travel analytics project from scratch using synthetic data generated and refined with the help of ChatGPT. This project aims to explore key questions a travel platform might ask:  
+📖 About the Project
+
+On a rainy afternoon in July 2025, I got curious as a traveler:  
+"When is the best time to book a flight?"
+
+That question sparked this full data science project — cleaning raw travel datasets, merging multiple sources, analyzing user and revenue patterns, and forecasting booking trends. The goal: simulate an internal analytics dashboard for a travel platform.
+
+This project answers questions like:
 - Who are our users?
-- When do they book the most?
+- What loyalty tier do they belong to?
+- Which destinations are most booked?
+- When is demand highest?
 - How much revenue do we earn per booking?
-- Where are they traveling to?
-- What’s the impact of loyalty programs?
-
-This project simulates what an internal analytics dashboard might look like for a travel company. Every chart tells a story, and the insights are intended to inform business, marketing, and product decisions.
+- And — when is the best time to book from the consumers pointb of view?
 
 ---
 
-## 📊 Visualizations & Insights
+📊 Visualizations & Insights
 
-### 1. **User Age Distribution**
-![User Age Distribution](./age_distribution.png)
-- This chart shows user ages range broadly from early 20s to late 60s.
-- There's a noticeable concentration in the 30s–40s and again around 60–70, which may guide targeted marketing campaigns.
+ 1. User Age Distribution
+[User Age Distribution](./visuals/age_distribution.png)
+- Users are mostly aged 30–40 and 60–70 — a good clue for marketing targeting.
 
-### 2. **Monthly Booking Trend**
-![Monthly Booking Trend](./booking_trend.png)
-- Seasonality is clearly present, with spikes around holiday periods and dips mid-year.
-- The peak in Jan 2025 could indicate New Year travel activity—useful for anticipating surge pricing and promotions.
+2. Monthly Booking Trends
+[Monthly Booking Trend](./visuals/booking_trend.png)
+- Seasonality is clear. January spikes could indicate post-holiday travel planning.
 
-### 3. **Loyalty Status Breakdown**
-![Loyalty Status](./loyalty_status.png)
-- Silver-tier users dominate the program, suggesting it may be easier to attain than other tiers.
-- This breakdown can help assess if higher-tier rewards (Platinum/Gold) need better incentives or if Bronze members require nudges.
+ 3. Loyalty Tier Breakdown**
+[Loyalty Status](./visuals/loyalty_status.png)
+- Most users are in the Silver tier. Bronze could use engagement nudges; Platinum may need better perks.
 
-### 4. **Revenue Distribution per Booking**
-![Revenue Distribution](./revenue_distribution.png)
-- Bookings are fairly spread out across different revenue bands, with a slight concentration around $400–$600 and again near $1,800.
-- This helps in identifying pricing clusters and planning upselling strategies.
+ 4. Revenue Per Booking**
+[Revenue Distribution](./visuals/revenue_distribution.png)
+- Revenue clusters at $400–600 and $1,800+. Upselling opportunities exist in the mid-high range.
 
-### 5. **Top 10 Destination Countries**
-![Top Destinations](./top_destinations.png)
-- Destinations like Congo, Niger, and Bhutan topped the chart.
-- These lesser-known destinations might be trending due to eco-tourism or curated experiences, offering partnership or marketing opportunities.
+ 5. Top Destinations**
+[Top Destinations](./visuals/top_destinations.png)
+- Unexpected top countries like Congo, Niger, and Bhutan offer potential growth segments or partner deals.
 
 ---
 
-## 📁 Files Included
+🔍 Best Time to Book — Top Destinations Heatmap
 
-| Filename | Description |
-|---------|-------------|
-| `cleaned_merged_travel_data.csv` | Core dataset with merged user and booking data |
-| `avg_rating_by_partner.csv` | Shows average customer ratings per travel partner |
-| `revenue_by_partner.csv` | Revenue contribution by each partner |
-| `travel_type_summary.csv` | Summary of bookings by travel type |
-| `.png files` | Cleaned visualizations used in this dashboard |
-| `Travel insights` | (Likely a summary or notebook; rename to add `.ipynb` or `.md` as appropriate) |
+![Best Time to Book Heatmap](./visuals/top5_best_booking_heatmap_colored.png)
 
----
+🟢 Green = Cheapest months  
+🟡 Yellow = Moderate pricing  
+🔴 Red = Most expensive
 
-## 💡 Why These Insights Matter
-
-- **Customer Segmentation**: Age and loyalty tiers help you understand and target different customer groups.
-- **Revenue Strategy**: Revenue per booking informs product pricing and promotional strategies.
-- **Trend Forecasting**: Booking trends help predict and prepare for high-demand seasons.
-- **Product Development**: Destination data can guide curated experiences or packages.
-- **Partnership Management**: Ratings and revenue by partners enable performance review and negotiations.
-
----
-
-## 🤖 Built with ChatGPT
-
-This entire dataset was generated with the guidance of ChatGPT, and the visuals were crafted using Python libraries like `matplotlib`, `seaborn`, and `pandas`. Beyond code assistance, ChatGPT helped shape the analytical narrative and storytelling structure of the project.
-
----
+A heatmap that helps users visually identify when to book flights to the most popular destinations at the best prices.
 
 
+🔮 Forecast: Monthly Bookings
+
+![Forecasted Bookings](./visuals/forecastmonthlybookings.png)
+
+Used Facebook Prophet to forecast upcoming booking volumes — helpful for demand planning and marketing campaigns.
 
 
+🧠 Skills Demonstrated
 
----
+✅ Data Cleaning & Merging  
+✅ Exploratory Data Analysis (EDA)  
+✅ Data Visualization (Seaborn, Matplotlib)  
+✅ Customer Segmentation & Loyalty Analysis  
+✅ Forecasting with Prophet  
+✅ Price Pattern Mining (heatmaps by destination/month)  
+✅ Python Automation & Project Structuring  
+✅ Git, GitHub & Documentation
 
-## 🙌 Would love to get your feedback i look forward to continue to learn and develop my skills
+
+ 🗂 Folder Structure
+
+DATAPROJECTFARID/
+├── README.md
+├── requirements.txt
+├── data/ ← Raw data files (users, bookings, reviews, partners)
+├── output/ ← Processed CSV summaries
+├── src/ ← All Python analysis/forecasting scripts
+└── visuals/ ← All final charts (.png) used in this project
+
